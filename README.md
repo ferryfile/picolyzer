@@ -1,5 +1,5 @@
 # picolyzer
 
-USB protocol analyzer.
+protocol analyzer
 
 > Early development — not yet released.
